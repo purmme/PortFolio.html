@@ -1,0 +1,170 @@
+.container {
+    max-width: 600px;
+    max-height: 300px;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+hr {
+    width: 200px;
+    height: 10px;
+    background-color: salmon;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+img.logo{
+    width: 250px;
+    height: 350px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 7);
+}
+
+h1.name {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h5 {
+    text-align: center;
+    font-size: 1.1rem;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+}
+
+.work {
+    margin-bottom: 20px;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px 0;
+    color: rgba(51, 51, 51, 0.5);
+}
+
+img.Portfolio{
+    width: 1000px;
+    height: 400px;
+    position: relative;
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 7);
+    overflow: hidden;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+img.Portfolio2{
+    width: 600px;
+    height: 400px;
+    position: relative;
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 7);
+    overflow: hidden;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+img.Portfolio3{
+    width: 600px;
+    height: 400px;
+    position: relative;
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 7);
+    overflow: hidden;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+img.Portfolio4{
+    width: 600px;
+    height: 400px;
+    position: relative;
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 7);
+    overflow: hidden;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+img.Portfolio5{
+    width: 600px;
+    height: 400px;
+    position: relative;
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 7);
+    overflow: hidden;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+img.Portfolio6{
+    width: 600px;
+    height: 400px;
+    position: relative;
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 7);
+    overflow: hidden;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+img.Portfolio7{
+    width: 600px;
+    height: 400px;
+    position: relative;
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 7);
+    overflow: hidden;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
