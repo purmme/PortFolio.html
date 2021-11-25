@@ -1,2 +1,2 @@
-# exercise-py
-Exercise-py-project-M-6
+# PortFolio-html-css
+PortFolio-html/css-project-M-6
